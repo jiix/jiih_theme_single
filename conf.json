@@ -1,0 +1,10 @@
+{
+    "name": "jiih：简约单栏",
+    "brief": "简约单栏。由<a href='http://jiih.com' target='_blank'>Jiih.com</a>制作。",
+    "version": "1.2",
+    "bbs_version": "4.0",
+    "installed": 0,
+    "enable": 0,
+    "hooks_rank": [],
+    "dependencies": []
+}
